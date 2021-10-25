@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:dog: I am a newbie on Github and to coding.. but aspire to be crackling soon :smile:   
+:dog: I am relatively new on Github and to coding.. but aspire to be crackling soon :smile:   
 🔭 I’m currently working on system designing <br>
 🌱 I’m currently learning Python <br>
 👯 I’m looking to collaborate on projects once I am up to speed  
